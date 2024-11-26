@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(void){
+int main(){
     int number1, number2, bcnn, numberA, numberB;
     printf("moi ban nhap vao so nguyen duong thu nhat: ");
     scanf("%d", &number1);
